@@ -1,0 +1,159 @@
+[
+  {
+    "PersonName": "Bob",
+    "EventType": 1,
+    "TimeStamp": "2022-04-01T05:00:00", 
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Kate",
+    "EventType": 1,
+    "TimeStamp": "2022-04-01T05:05:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Bob",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T05:15:00",
+    "AffectedByEvent": "Kate",
+    "EventDetails": "Hey Kate, High 5?"
+  },
+  {
+    "PersonName": "Kate",
+    "EventType": 4,
+    "TimeStamp": "2022-04-01T05:17:00",
+    "AffectedByEvent": "Bob",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Bob",
+    "EventType": 2,
+    "TimeStamp": "2022-04-01T05:18:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Kate",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T05:20:00",
+    "AffectedByEvent": "",
+    "EventDetails": "Oh typical!"
+  },
+  {
+    "PersonName": "Kate",
+    "EventType": 2,
+    "TimeStamp": "2022-04-01T05:21:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+ 
+  {
+    "PersonName": "Matt",
+    "EventType": 1,
+    "TimeStamp": "2022-04-01T06:00:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Sarah",
+    "EventType": 1,
+    "TimeStamp": "2022-04-01T06:05:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Matt",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T06:15:00",
+    "AffectedByEvent": "Sarah",
+    "EventDetails": "Hey Sarah, How are you?"
+  },
+  {
+    "PersonName": "Sarah",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T06:16:00",
+    "AffectedByEvent": "Matt",
+    "EventDetails": "Hey Matt, I am good. Thanks"
+  },
+  {
+    "PersonName": "Sarah",
+    "EventType": 4,
+    "TimeStamp": "2022-04-01T06:17:00",
+    "AffectedByEvent": "Matt",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Matt",
+    "EventType": 2,
+    "TimeStamp": "2022-04-01T06:18:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Sarah",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T06:20:00",
+    "AffectedByEvent": "",
+    "EventDetails": "Oh typical!"
+  },
+  {
+    "PersonName": "Julia",
+    "EventType": 1,
+    "TimeStamp": "2022-04-01T06:22:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Sarah",
+    "EventType": 4,
+    "TimeStamp": "2022-04-01T06:23:00",
+    "AffectedByEvent": "Julia",
+    "EventDetails": ""
+  },
+  {
+  "PersonName": "Sarah",
+  "EventType": 2,
+  "TimeStamp": "2022-04-01T06:24:00",
+  "AffectedByEvent": "",
+  "EventDetails": ""
+  },
+  {
+    "PersonName": "Julia",
+    "EventType": 3,
+    "TimeStamp": "2022-04-01T06:24:00",
+    "AffectedByEvent": "",
+    "EventDetails": "Wow such a nice person"
+  },
+  {
+    "PersonName": "Julia",
+    "EventType": 2,
+    "TimeStamp": "2022-04-01T06:25:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+
+
+  {
+    "PersonName": "Bob",
+    "EventType": 1,
+    "TimeStamp": "2022-04-22T05:00:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Kate",
+    "EventType": 1,
+    "TimeStamp": "2022-04-22T05:05:00",
+    "AffectedByEvent": "",
+    "EventDetails": ""
+  },
+  {
+    "PersonName": "Bob",
+    "EventType": 3,
+    "TimeStamp": "2022-04-22T05:15:00",
+    "AffectedByEvent": "Kate",
+    "EventDetails": "Hey Kate, High 5?"
+  }
+]
