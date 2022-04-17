@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using PowerDiaryDataAggregator.Data;
 using PowerDiaryDataAggregator.Data.Repository;
 using PowerDiaryDataAggregator.Interfaces;
+using PowerDiaryDataAggregator.Middleware;
 using PowerDiaryDataAggregator.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -35,6 +36,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 
