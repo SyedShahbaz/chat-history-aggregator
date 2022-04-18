@@ -21,6 +21,4 @@ The endpoint exposed accepts two aggregation granularity levels, 'hourly' and 'm
 
 # Architecture
 A high level archtecture diagram is as follows: 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-
+![alt text](https://github.com/SyedShahbaz/chat-history-aggregator/blob/master/Architecture.png?raw=true)
